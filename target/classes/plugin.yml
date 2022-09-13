@@ -1,0 +1,7 @@
+name: ReversedMinecraft
+version: '1.0-SNAPSHOT'
+main: fr.arcane.reversedminecraft.ReversedMinecraft
+api-version: 1.17
+load: STARTUP
+authors: [ Arcane ]
+description: Minecraft inversé
